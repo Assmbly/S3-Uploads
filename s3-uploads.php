@@ -4,7 +4,7 @@
 Plugin Name: S3 Uploads
 Description: Store uploads in S3
 Author: assmb.ly / Human Made Limited
-Version: 3.0.7.1-assmbly
+Version: 3.0.7.2-assmbly
 Author URI: https://hmn.md
 */
 
