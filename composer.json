@@ -23,13 +23,17 @@
 	"type": "wordpress-plugin",
 	"require": {
 		"composer/installers": "~1.0 || ^2.0",
-		"aws/aws-sdk-php": "~3.18"
+		"aws/aws-sdk-php": "~3.18",
+		"guzzlehttp/guzzle": "^7"
 	},
 	"require-dev": {},
 	"scripts": {},
 	"config": {
 		"allow-plugins": {
 			"composer/installers": true
+		},
+		"platform": {
+			"php": "8.3.0"
 		}
 	}
 }
